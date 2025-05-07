@@ -1,0 +1,1 @@
+C:\Users\maof_\UnityProjects\ARInteractiveFaceFilter\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\202s1xc1\obj\arm64-v8a
